@@ -1,6 +1,6 @@
 <?php
 
-$dateCreate = '30-03-2023 16:12:12';
+$dateCreate = '30-03-2023 15:12:12';
 $pattern = "/^\d{2}[.-]\d{2}[.-]\d{4}\s\d{2}:\d{2}:\d{2}$/";
 
 list($date, $time) = explode(" ", $dateCreate);
